@@ -1,7 +1,7 @@
 # README.md
 # Olá, eu sou a Eneida! 👋
 
-- 🖥️ Graduanda de engenharia eletrônica na Universidade Federal do Amazonas - UFAM.
+- 🖥️ Graduanda de Engenharia Eletrônica na Universidade Federal do Amazonas - UFAM.
 ![Electronics](https://img.shields.io/badge/-Electronics-00599C?style=flat&logo=Electronics&logoColor=white)
 - 🔬 Pesquisadora no Laboratório de controle, indústria 4.0, IA e ML. 
 ![Research](https://img.shields.io/badge/-Research-555555?style=flat&logo=ResearchGate&logoColor=white)
