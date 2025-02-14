@@ -25,6 +25,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Node-RED](https://img.shields.io/badge/-Node--RED-8F0000?style=flat&logo=Node-RED&logoColor=white)
 ![CODESYS](https://img.shields.io/badge/-CODESYS-FF3300?style=flat&logo=CODESYS&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
 
 # Idiomas
 
