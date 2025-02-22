@@ -20,7 +20,7 @@
 
 # Aprendendo
 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)
+![Rocky Linux](https://img.shields.io/badge/-Rocky%20Linux-10B981?style=flat&logo=RockyLinux&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Node-RED](https://img.shields.io/badge/-Node--RED-8F0000?style=flat&logo=Node-RED&logoColor=white)
